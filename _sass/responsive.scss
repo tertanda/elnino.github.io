@@ -1,0 +1,45 @@
+/*
+ * RESPONSIVE STARTS
+ */
+@media screen and (min-width: 425px) {    
+    body { font-size: 1.1487rem; }
+}
+
+@media screen and (min-width: 480px) {    
+    .page-wrapper { width: 90%; }
+    
+    .page-aside {
+        float: left;
+        width: 50%;
+    }
+    
+    .page-foot { font-size: 0.8706rem; }
+}
+
+@media screen and (min-width: 540px) {    
+    h1 { font-size: 2rem; }
+    
+    h2 { font-size: 1.7411rem; }
+    
+    h3 { font-size: 1.5157rem; }
+    
+    h4 { font-size: 1.3195rem; }
+    
+    .page-wrapper { width: 85%; }
+}
+
+@media screen and (min-width: 640px) {
+    .page-wrapper { width: 560px; }
+    
+    .page-foot { font-size: 1rem; }
+}
+
+@media screen and (min-width: 960px) {
+    a:hover {
+        color: #333;
+        transition: color 250ms ease-in-out;
+    }
+}
+/*
+ * RESPONSIVE ENDS
+ */

@@ -1,0 +1,10 @@
+<ul class="site-archive__list">
+    {%for post in site.categories.artikel%}
+    <li class="site-archive__item">
+        <a href="{{post.url}}" title="{{post.title}}" class="site-post__link">
+            <h3>{{post.title}}</h3>
+            <span class="site-post__main"><date class="site-post__info">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d" }}{% case m %}{% when '1' %} Jan {% when '2' %} Feb {% when '3' %} Mar {% when '4' %} Apr {% when '5' %} Mei {% when '6' %} Jun {% when '7' %} Jul {% when '8' %} Ags {% when '9' %} Sep {% when '10' %} Okt {% when '11' %} Nov {% when '12' %} Des {% endcase %}{{ post.date | date: "%Y" }} &middot; </date>{{post.intro}}</span>
+        </a>
+    </li>
+    {%endfor%}
+</ul>
