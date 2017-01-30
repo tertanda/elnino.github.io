@@ -12,6 +12,10 @@ meta  : Koleksi buku milik El Nino H. Maulana.
 
 {%include lib/desain.html%}
 
+## Buku Finansial
+
+{%include lib/finansial.html%}
+
 ## Buku Investasi
 
 {%include lib/invest.html%}
