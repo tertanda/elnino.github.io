@@ -21,3 +21,5 @@ Hal itu bukan sekedar nasihat, tetapi prinsip yang dianut oleh Jobs.
 Saat itu tahun 1996, Apple sedang berada di ambang kehancuran. Penjualan Apple merosot sebanyak 30% dan mengalami kerugian hingga US$1.04 miliar. Menyadari hal tersebut, Dewan Direksi Apple meminta Steve Jobs untuk kembali menjadi CEO Apple.
 
 Ketika Jobs kembali sebagai CEO pada tahun 1997, hal pertama yang dilakukannya adalah menyingkirkan produk sampah yang dibuat Apple, dari 350 produk menjadi 10 produk. Ia membuang 340 produk. Satu tahun kemudian, Apple yang tahun sebelumnya rugi US$1.04 miliar mendapat keuntungan sebesar US$309 juta.
+
+<p class="hanging-quote">&ldquo;<em>Focusing is about saying,</em> &lsquo;<em>No.</em>&rsquo;,&rdquo; ucap Jobs.</p>
