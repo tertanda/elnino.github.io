@@ -16,4 +16,4 @@ Ketika ia berumur 12 tahun, ia bekerja untuk kakaknya, James Franklin. Di sana, 
 
 Saat ini, setelah hampir 300 tahun, apa yang ia lakukan menciptakan efek yang mengagumkan. Mrs. Silence Dogood dan Richard Saunders adalah dua tokoh penulis yang berperan penting dalam mendidik orang-orang seperti Charlie Munger dan Warren Buffett. Dogood dan Saunders menulis dan menyebarkan pengetahuan untuk generasi setelah mereka.
 
-Salah satu nasihat Benjamin Franklin yang terkenal adalah, "*Either write something worth reading or do something worth writing.*" Franklin tidak memberi nasihat tentang bagaimana menulis dengan baik, tetapi apa yang sebaiknya ditulis.
+Salah satu nasihat Franklin adalah, "*Either write something worth reading or do something worth writing.*" Franklin tidak memberi nasihat tentang bagaimana menulis dengan baik, tetapi apa yang sebaiknya ditulis.
