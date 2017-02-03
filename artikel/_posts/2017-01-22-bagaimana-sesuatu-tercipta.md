@@ -10,7 +10,7 @@ meta     : Bagaimana Wright Bersaudara mengubah industri transportasi.
 
 # Bagaimana Sesuatu Tercipta
 
-<p><date class="site-post__info">22 Jan 2017 &middot; </date>17 Desember 1903, dua orang bersaudara sedang mengerjakan sesuatu yang nantinya akan mengubah bagaimana manusia berpergian. Hari itu, manusia melakukan penerbangan untuk pertama kalinya, mereka adalah Wright Bersaudara.<sup><a href="#footnotes" title="Catatan Nr.1">1</a></sup></p>
+<p><date class="site-post__info">22 Jan 2017 &middot; </date>17 Desember 1903, dua orang bersaudara sedang mengerjakan sesuatu yang nantinya akan mengubah bagaimana manusia berpergian. Hari itu, manusia melakukan penerbangan untuk pertama kalinya, mereka adalah Wright Bersaudara.</p>
 
 Hal yang mengesankan ketika Wright Bersaudara melakukan penerbangan untuk pertama kalinya adalah, tidak ada orang yang peduli. Meskipun begitu, mereka tetap melakukannya, selama bertahun-tahun. Hingga pada tahun 1907, orang lain mulai memperhatikan apa yang sedang Wright Bersaudara lakukan.
 
