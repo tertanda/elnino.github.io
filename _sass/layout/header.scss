@@ -1,10 +1,10 @@
 /*
  * HEADER STARTS
  */
-.site-nav__home {
-    display: inline-block;
-    height: 2rem;
-}
+.site-head__nav,
+.site-nav__home { height: 2rem; }
+
+.site-nav__home { display: inline-block; }
 /*
  * HEADER ENDS
  */
