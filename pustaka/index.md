@@ -6,7 +6,7 @@ meta  : Koleksi buku milik El Nino H. Maulana.
 
 # Pustaka
 
-<p>Ketika membaca buku, kita bukan hanya membaca pemikiran penulis; kita juga berbincang dengan mereka. Saya membaca dan mengoleksi buku. Jika Anda memiliki rekomendasi buku, <a href="mailto:ninohanif@gmail.com" title="Kirim Pesan">kirim sebuah pesan</a>.</p>
+<p>Ketika membaca buku, kita bukan hanya membaca pemikiran penulis; kita juga berbincang dengan mereka. Jika Anda memiliki rekomendasi buku untuk saya baca, <a href="mailto:ninohanif@gmail.com" title="Kirim Pesan">kirim sebuah pesan</a>.</p>
 
 ## Buku Desain
 
