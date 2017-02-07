@@ -14,4 +14,4 @@ Saya adalah El Nino Hanif Maulana, seorang desainer dan pembaca. Saya menganut n
 
 ### Kolofon
 
-<p>Situs ini dirancang dan dibangun oleh <a href="http://tertanda.com" title="Studio Wafele" target="_blank">Wafele</a>. Kode ditulis dengan teknologi: HTML, Sass, JavaScript, Jekyll, dan Brackets. Tipografi disusun dengan Source Sans Pro yang dirancang oleh Paul D. Hunt; disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan dan disajikan melalui Medium, GitHub, dan Cloudflare.</p>
+<p>Situs ini dirancang dan dibangun oleh <a href="http://tertanda.com" title="Studio Wafele" target="_blank">Wafele</a>. Kode ditulis dengan teknologi: HTML, Sass, JavaScript, Jekyll, dan Brackets. Tipografi disusun dengan Source Sans Pro yang dirancang oleh Paul D. Hunt yang disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan dan disajikan melalui Medium, GitHub, dan Cloudflare.</p>
