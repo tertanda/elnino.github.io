@@ -8,7 +8,7 @@ meta  : El Nino H. Maulana adalah seorang desainer dan pembaca.
 
 Saya adalah El Nino Hanif Maulana, seorang desainer dan pembaca. Ini adalah tempat untuk menuliskan dan mengumpulkan hal-hal yang saya pelajari; seperti hal-hal di bawah ini.
 
-## Simplicity + Minimalism
+## Less but Better
 
 Segala sesuatu harus dapat digunakan dan dipahami oleh siapa pun dengan mudah dan menyenangkan. Situs ini dirancang dan dibangun dengan prinsip tersebut sebagai fondasi.
 
