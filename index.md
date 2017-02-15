@@ -8,5 +8,5 @@ meta  : El Nino H. Maulana adalah seorang desainer dan pembaca.
 
 Saya adalah El Nino Hanif Maulana, seorang desainer dan pembaca. Ini adalah tempat untuk menuliskan dan mengumpulkan hal-hal yang saya pelajari; seperti hal-hal di bawah ini.
 
-* **Less but better**. Segala sesuatu harus dirancang dan dibangun supaya dapat digunakan dan dipahami oleh siapa pun dengan mudah. Situs ini dirancang dan dibangun dengan prinsip tersebut.
+* **Less but better**. Segala sesuatu harus dirancang dan dibangun dengan jelas dan sederhana, agar dapat digunakan dan dipahami oleh siapa pun dengan mudah dan menyenangkan.
 * **Silence do good**. Ketika sesuatu; program, manusia, dsb., tidak memiliki sesuatu yang bermanfaat dan berguna untuk diucapkan, ia diwajibkan untuk diam. Air beriak tanda tak dalam.
