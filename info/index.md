@@ -1,14 +1,14 @@
 ---
 layout: article
-title : Tentang
+title : Info
 meta  : El Nino H. Maulana adalah seorang desainer dan pembaca.
 ---
 
-# Tentang
+# Info
 
 Saya adalah El Nino Hanif Maulana, seorang desainer dan pembaca. Saya menganut nasihat Benjamin Franklin, "*Either write something worth reading or do something worth writing.*" Saya akan melakukannya; dengan menulis tentang kehidupan dan pengetahuan.
 
-## Produk
+## Karya
 
 <p>Bersama <a href="http://tertanda.com" title="Tertanda" target="_blank">Tertanda</a>, saya merancang dan membangun produk yang berguna dan menyenangkan untuk digunakan. Melalui desain, kode, dan teknologi, kami membantu memperbaiki kualitas kehidupan manusia.</p>
 
