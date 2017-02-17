@@ -10,7 +10,7 @@ meta     : Nasihat dari Steve Jobs untuk Nike, Inc. dan Apple, Inc.
 
 # Nasihat untuk Nike
 
-<p><date class="site-post__info">15 Jan 2017 &middot; </date>Ketika Nike mengangkat Mark Parker sebagai CEO pada tahun 2006, Parker memulai kampanye Nike+ dengan berkolaborasi bersama Apple. Parker yang baru saja diangkat sebagai CEO Nike, meminta nasihat kepada CEO Apple, Steve Jobs.</p>
+<p><date class="site-post__info">15 Jan 2017</date> &middot; Ketika Nike mengangkat Mark Parker sebagai CEO pada tahun 2006, Parker memulai kampanye Nike+ dengan berkolaborasi bersama Apple. Parker yang baru saja diangkat sebagai CEO Nike, meminta nasihat kepada CEO Apple, Steve Jobs.</p>
 
 Jobs berkata, "Nike membuat produk yang mengagumkan. Tetapi kalian juga membuat banyak sampah. Singkirkan sampah tersebut dan berfokuslah untuk mengerjakan produk yang baik."
 
