@@ -20,7 +20,7 @@ Dalam <a href="http://www.catb.org/~esr/writings/taoup/" title="The Art of Unix 
 
 <blockquote><p class="hanging-quote">&ldquo;<em>He that speaks much, is much mistaken.</em>&rdquo; &mdash; Benjamin Franklin</p></blockquote>
 
-Aturan lainnya adalah *The Rule of Parsimony*. Seperti *The Rule of Silence*, kedua aturan tersebut mengingatkan *developer* untuk tidak menulis program yang besar, komplek, dan berlebihan. Karena hal itu dapat membuat program sulit untuk dipelihara dan diperbaiki.
+Aturan lainnya adalah *The Rule of Parsimony*. Seperti *The Rule of Silence*, kedua aturan tersebut mengingatkan *developer* untuk tidak menulis program yang besar, kompleks, dan berlebihan. Karena hal itu dapat membuat program sulit untuk dipelihara dan diperbaiki.
 
 Pernahkah Anda bertanya, “Mengapa saya memiliki ini? Apa yang saya lakukan?” Dalam pemrograman, jika kita tidak tahu kode apa yang kita tulis, kita akan mengacaukan segalanya. Jadi, kita hanya perlu melakukan sesuatu yang masuk akal dan dapat kita pahami.
 
