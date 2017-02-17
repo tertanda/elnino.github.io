@@ -10,7 +10,7 @@ meta     : Nasihat Sherlock Holmes tentang bagaimana berpikir dengan baik.
 
 # Penting dan Berguna
 
-<p><date class="site-post__info">1 Jan 2017 &middot; </date>Watson terkejut ketika mengetahui jika Sherlock Holmes tidak tahu bahwa bumi mengelilingi matahari. &ldquo;Apa pengaruhnya bagiku?&rdquo; ucap Holmes, &ldquo;Kau bilang bumi mengelilingi matahari. Seandainya bumi mengelilingi bulan, hal itu tidak akan berpengaruh sedikit pun bagiku atau pekerjaanku.&rdquo;</p>
+<p><date class="site-post__info">1 Jan 2017</date> &middot; Watson terkejut ketika mengetahui jika Sherlock Holmes tidak tahu bahwa bumi mengelilingi matahari. &ldquo;Apa pengaruhnya bagiku?&rdquo; ucap Holmes, &ldquo;Kau bilang bumi mengelilingi matahari. Seandainya bumi mengelilingi bulan, hal itu tidak akan berpengaruh sedikit pun bagiku atau pekerjaanku.&rdquo;</p>
 
 Saya menyukai Holmes, saya selalu menyukai seseorang yang berkata terus terang, "Itu tidak penting bagiku, jangan membicarakannya denganku." Karena kapasitas otak manusia terbatas, kita sebaiknya menjadi orang yang selektif dalam banyak hal, seperti Holmes.
 
