@@ -16,7 +16,9 @@ Dengan tujuan tersebut sebagai fondasi, Unix terus dikembangkan dengan prinsip: 
 
 Jika Unix Philosophy diringkas dalam satu kalimat, maka kalimat tersebut adalah, “Bangunlah sebuah program yang hanya melakukan satu hal, tetapi ia dapat melakukannya dengan baik, dan dapat bekerja sama dengan program yang lain.”
 
-Dalam <a href="http://www.catb.org/~esr/writings/taoup/" title="The Art of Unix Programming" target="_blank">The Art of Unix Programming</a>, Eric S. Raymond menulis 17 aturan, salah satunya adalah *The Rule of Silence*. Aturan tersebut berbunyi, "Ketika sebuah program tidak memiliki sesuatu yang mengagumkan, menarik, atau berguna untuk diucapkan, ia diwajibkan untuk diam." Saya setuju dengan hal itu, begitu pula Benjamin Franklin, "*He that speaks much, is much mistaken.*"
+Dalam <a href="http://www.catb.org/~esr/writings/taoup/" title="The Art of Unix Programming" target="_blank">The Art of Unix Programming</a>, Eric S. Raymond menulis 17 aturan, salah satunya adalah *The Rule of Silence*. Aturan tersebut berbunyi, "Ketika sebuah program tidak memiliki sesuatu yang mengagumkan, menarik, atau berguna untuk diucapkan, ia diwajibkan untuk diam." Saya setuju dengan hal itu, begitu pula Benjamin Franklin.
+
+<blockquote><p class="hanging-quote">&ldquo;<em>He that speaks much, is much mistaken.</em>&rdquo; &mdash; Benjamin Franklin</p></blockquote>
 
 Aturan lainnya adalah The Rule of Parsimony. Seperti The Rule of Silence, kedua aturan tersebut mengingatkan developer untuk tidak menulis program yang besar, komplek, dan berlebihan. Karena hal itu dapat membuat program sulit untuk dipelihara dan diperbaiki.
 
