@@ -10,7 +10,7 @@ meta     : Nasihat dan prinsip menulis dari Benjamin Franklin.
 
 # Prinsip Menulis
 
-<p><date class="site-post__info">29 Jan 2017 &middot; </date>Tahun 1722, saat itu Benjamin Franklin berumur 16 tahun, ia baru saja menerbitkan tulisan pertamanya. Di bawah nama samaran, Mrs. Silence Dogood, Franklin menulis tentang kehidupan dan nasihat. Meskipun ia hanya mendapat pendidikan formal selama dua tahun, ia menulis dengan mengagumkan.</p>
+<p><date class="site-post__info">29 Jan 2017</date> &middot; Tahun 1722, saat itu Benjamin Franklin berumur 16 tahun, ia baru saja menerbitkan tulisan pertamanya. Di bawah nama samaran, Mrs. Silence Dogood, Franklin menulis tentang kehidupan dan nasihat. Meskipun ia hanya mendapat pendidikan formal selama dua tahun, ia menulis dengan mengagumkan.</p>
 
 Ketika berumur 12 tahun, ia bekerja untuk kakaknya, James Franklin. Di sana ia menghabiskan waktu untuk membaca dan mendidik dirinya untuk menulis dengan baik. Richard Saunders, adalah salah satu karakter lainnya yang dibuat oleh Benjamin Franklin. Sebagai Saunders, ia menulis, "*Stick to it steadily, and you'll see great effects.*"
 
