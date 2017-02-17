@@ -10,7 +10,7 @@ meta     : Unix Philosophy sebagai prinsip dan pedoman hidup.
 
 # Program Kehidupan
 
-<p>Ken Thompson menulis sistem operasi <a href="https://id.wikipedia.org/wiki/Unix" title="Unix" target="_blank">Unix</a> ketika ia bekerja di Bell Labs pada tahun 1969.<sup><a href="#footnotes" title="Catatan Nr.1">1</a></sup> Ia berpikir jika sistem operasi komputer pada waktu itu terlalu kompleks untuk digunakan. Sehingga, ia mengembangkan Unix dengan tujuan untuk membuat sistem operasi yang sesederhana dan seefisien mungkin.</p>
+<p><date class="site-post__info">5 Feb 2017</date> &middot; Ken Thompson menulis sistem operasi <a href="https://id.wikipedia.org/wiki/Unix" title="Unix" target="_blank">Unix</a> ketika ia bekerja di Bell Labs pada tahun 1969.<sup><a href="#footnotes" title="Catatan Nr.1">1</a></sup> Ia berpikir jika sistem operasi komputer pada waktu itu terlalu kompleks untuk digunakan. Sehingga, ia mengembangkan Unix dengan tujuan untuk membuat sistem operasi yang sesederhana dan seefisien mungkin.</p>
 
 Dengan tujuan tersebut sebagai fondasi, Unix terus dikembangkan dengan menganut prinsip: *simple, short, clear, modular, and extensible*. Prinsip tersebut membuat Unix menjadi sistem operasi terbaik sepanjang masa. Saat ini, prinsip Unix (Unix Philosophy) menjadi pedoman *developer* ketika membangun program.
 
