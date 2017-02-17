@@ -10,7 +10,7 @@ meta     : Bagaimana Newton rugi US$4 juta dalam pasar saham.
 
 # Memahami Batas Kemampuan
 
-<p><date class="site-post__info">8 Jan 2017 &middot; </date>Saat itu tahun 1720, saham South Sea Company (SSC) sedang ramai diperbincangkan di Inggris. Sir Isaac Newton, salah satu orang terpandai yang pernah hidup, menjual saham SSC miliknya dan memperoleh US$7 ribu – total keuntungan 100%.</p>
+<p><date class="site-post__info">8 Jan 2017</date> &middot; Saat itu tahun 1720, saham South Sea Company (SSC) sedang ramai diperbincangkan di Inggris. Sir Isaac Newton, salah satu orang terpandai yang pernah hidup, menjual saham SSC miliknya dan memperoleh US$7 ribu – total keuntungan 100%.</p>
 
 Beberapa bulan kemudian, karena SSC masih ramai diperbincangkan, Newton kembali membeli saham SSC di harga yang lebih mahal. Tidak lama setelah Newton kembali membelinya, saham SSC runtuh dan Newton rugi US$20 ribu. Jika dihitung dalam uang tahun 2017, Newton rugi sekitar US$4 juta.
 
